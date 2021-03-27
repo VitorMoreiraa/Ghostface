@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+background-color: #353535;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+line-height: 30px;
+}
+header{
+background-color:#353535;
+text-align: center;
+padding-top: 35px;
+padding-bottom: 15px;
+box-shadow: 0 40px 40px -40px rgb(197, 117, 42);
+}
+
+header h1{
+    color:rgb(197, 117, 42);
+  font-style: italic;
+    font-size: 35px;
+ 
+}
+h1, h2{
+    font-family: 'Ruluko', sans-serif;
+}
+header img{
+    width: 300px;
+    height: 300px;
+object-fit: cover;
+border-radius: 170px;
+box-shadow: 3px 20px 45px rgb(197, 117, 42);
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+
+main{
+    max-width:  800px;
+ text-align: center;
+ margin: 0 auto; 
+}
+
+main img{
+    box-shadow: 20px 20px 20px rgb(197, 117, 42);
+    width: 50%;
+    height: 50%
+}
+ 
+h2{
+    color:rgb(197, 117, 42);
+    margin-bottom: -10px;
+    margin-top :10px;
+}
+
+a{
+    color:rgb(197, 117, 42);
+    text-decoration: none;
+}
+
+a:hover{
+    color:rgb(211, 59, 59);
+    text-decoration: underline;
+}
+p{
+    color:whitesmoke;
+    font-size: 18px;
+}
+ li{
+    color:whitesmoke;
+    font-size: 18px;
+}
+footer{
+background-color: #353535;
+text-align: center;
+color:whitesmoke;
+padding: 20px;;
+box-shadow: 0 -10px 10px -10px rgb(197, 117, 42);
+}
+
+.Caption
+{
+color: whitesmoke;
+font-size: 16px;
+margin-top: -10px;
+font-style: oblique;
+}
